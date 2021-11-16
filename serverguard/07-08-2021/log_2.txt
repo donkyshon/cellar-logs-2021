@@ -1,0 +1,1 @@
+[Thu Jul  8 03:43:53 2021] <ANON:3356037318> Майра Коулман spawned prop "Entity [3879][prop_physics] (models/props_c17/FurnitureTable003a.mdl)"

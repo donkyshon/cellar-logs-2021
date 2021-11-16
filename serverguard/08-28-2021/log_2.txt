@@ -1,0 +1,1 @@
+[Sat Aug 28 07:58:36 2021] <ANON:3369722029> Anthony Preston spawned prop "Entity [7176][prop_physics] (models/foodnhouseholditems/winebottle4.mdl)"

@@ -1,0 +1,1 @@
+[Mon Jul 12 02:05:05 2021] <ANON:1917608167> Терри Картман spawned effect "Entity [7551][prop_effect] (models/props_foliage/grass_cluster04a.mdl)"

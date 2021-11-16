@@ -1,0 +1,1 @@
+[Tue Aug 24 13:59:01 2021] <ANON:3749556334> Vasyl Serdyuk spawned npc "NPC [7341][npc_fastzombie]"

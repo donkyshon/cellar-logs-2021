@@ -1,0 +1,1 @@
+[Sat May 29 13:17:52 2021] <ANON:2679488748> OW:c08.LEADER-9 spawned prop "Entity [7191][prop_physics] (models/props_c17/chair02a.mdl)"

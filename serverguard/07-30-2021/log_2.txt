@@ -1,0 +1,1 @@
+[Fri Jul 30 13:10:07 2021] <ANON:3369722029> Anthony Preston spawned prop "Entity [7587][prop_physics] (models/props_wasteland/medbridge_strut01.mdl)"
